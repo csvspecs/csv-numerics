@@ -59,7 +59,7 @@ CSV <3 Numerics
 ## What about Not A Number (NaN)?
 
 A CSV <3 Numberics reader / parser also lets you configure a list of values
-that get auto-converted to `NaN`, that is, Not A Number (NaN).
+that get auto-converted to `NaN`, that is, Not A Number.
 Example:
 
 ```
@@ -102,7 +102,7 @@ returns / maps to
 
 ## What about More Types? Nulls, Booleans, Dates, Times, Arrays, Structs, and so on?
 
-See alternative CSV formats that include well-specified encoding rules for more types:
+See alternative CSV formats that include specified encoding rules for more types:
 
 ### JSON
 
