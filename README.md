@@ -138,6 +138,6 @@ The CSV <3 Numerics format is dedicated to the public domain.
 
 ## Request for Comments (RFC)
 
-Please, post your comments to the [wwwmake forum](http://groups.google.com/group/wwwmake).
+Please post your comments to the [wwwmake forum](http://groups.google.com/group/wwwmake).
 Thanks!
 
