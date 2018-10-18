@@ -1,6 +1,6 @@
 # CSV <3 Numerics Format
 
-_CSV Records with Auto-Converted Numerics (Float Numbers) Encoding Rules - A Modern (Simple) Tabular Data Format incl. Numbers, Comments and More_
+_CSV (Line-by-Line) Records with Auto-Converted Numerics (Float Numbers) Encoding Rules - A Modern (Simple) Tabular Data Format incl. Numbers, Comments and More_
 
 
 
