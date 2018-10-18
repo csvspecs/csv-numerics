@@ -99,6 +99,19 @@ returns / maps to
 ```
 
 
+Note: (White)spaces inside quotes will NOT get trimmed:
+
+```
+  " 4 " ,  " 5 "   ," 6 "
+```
+
+returns / maps to
+
+``` yaml
+[[" 4 ", " 5 ", " 6 "]]
+```
+
+
 
 ## What about More Types? Nulls, Booleans, Dates, Times, Arrays, Structs, and so on?
 
