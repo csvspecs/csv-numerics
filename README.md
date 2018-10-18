@@ -58,7 +58,7 @@ CSV <3 Numerics
 
 ## What about Not A Number (NaN)?
 
-A CSV <3 Numberics reader / parser also lets you configure a list of values
+A CSV <3 Numerics reader / parser lets you configure a list of values
 that get auto-converted to `NaN`, that is, Not A Number.
 Example:
 
