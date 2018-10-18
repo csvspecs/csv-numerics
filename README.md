@@ -50,7 +50,8 @@ returns / maps to
 
 and now has an official name. Let's call it:
 
-CSV <3 Numerics  or  CSV ❤ Numerics
+CSV <3 Numerics 
+
 
 
 
@@ -99,7 +100,38 @@ returns / maps to
 
 
 
+## What about More Types? Nulls, Booleans, Dates, Times, Arrays, Structs, and so on?
+
+See alternative CSV formats that include well-specified encoding rules for more types:
+
+### JSON
+
+- CSV <3 JSON Format, see <https://github.com/csv11/csv-json>
+  - includes Nulls, Booleans, Arrays, Structs, and more
+  - does NOT include Dates
+
+### YAML
+
+- CSV <3 YAML Format, see <https://github.com/csv11/csv-yaml>
+  - includes Nulls, Booleans, Dates, Arrays, Structs, and more
 
 
+
+
+
+## Frequently Asked Questions (FAQ) and Answers
+
+### Q: What's the recommended file type extension for CSV <3 Numerics files?
+
+The recommended file format for CSV <3 Numerics files is `.csv` :-) or use `.num.csv` (to highlight 
+the fact of the numerics encoding rules).
+
+
+
+
+
+## License
+
+The CSV <3 Numerics format is dedicated to the public domain.
 
 
