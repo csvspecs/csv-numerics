@@ -119,13 +119,13 @@ See alternative CSV formats that include specified encoding rules for more types
 
 ### JSON
 
-- CSV <3 JSON Format, see <https://github.com/csv11/csv-json>
+- CSV <3 JSON Format, see <https://github.com/csvspecs/csv-json>
   - includes Nulls, Booleans, Arrays, Structs, and more
   - does NOT include Dates
 
 ### YAML
 
-- CSV <3 YAML Format, see <https://github.com/csv11/csv-yaml>
+- CSV <3 YAML Format, see <https://github.com/csvspecs/csv-yaml>
   - includes Nulls, Booleans, Dates, Arrays, Structs, and more
 
 
